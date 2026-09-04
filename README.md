@@ -7,7 +7,7 @@
 *learning • building • breaking things • figuring them out* 🤓 \
 *currently somewhere between “I know what I'm doing” and “let me Google that.”* 😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-♡-blue?style=flat-square)](www.linkedin.com/in/kacie-williams)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-♡-black?style=flat-square)](https://www.linkedin.com/in/kacie-williams/)
 [![GitHub](https://img.shields.io/badge/GitHub-♡-black?style=flat-square)](https://github.com/kaciewill22-ai)
 
 </div>
