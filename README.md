@@ -4,7 +4,7 @@
 
 ### cybersecurity student at kennesaw state university
 
-*currently somewhere between “I know what I'm doing” and “let me Google that.”* 
+*currently somewhere between “I know what I'm doing” and “let me ChatGPT that.”* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-♡-black?style=flat-square)](https://www.linkedin.com/in/kacie-williams/)
 [![GitHub](https://img.shields.io/badge/GitHub-♡-black?style=flat-square)](https://github.com/kaciewill22-ai)
