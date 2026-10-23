@@ -60,7 +60,7 @@ If you're also learning something new or have an _internship opportunity_, **let
 
 <div align="center">
 
-### thanks for stopping by! 
+### Thanks for stopping by! 
 
 *build something • learn something • repeat*
 
