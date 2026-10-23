@@ -1,6 +1,6 @@
 <div align="center">
 
-#  hi, i'm kacie! 😊
+#  Hi, I'm Kacie! 😊
 
 ### cybersecurity student at kennesaw state university
 
