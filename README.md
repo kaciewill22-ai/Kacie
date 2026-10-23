@@ -16,8 +16,7 @@
 ## about me
 
 ```text
-🎓  cybersecurity student @ KSU
-👩‍💻  currently loving Obsidian
+🎓  cybersecurity graduate student @ KSU
 🏠  building my own home lab
 🌱  figuring things out one project at a time
 ```
@@ -40,12 +39,14 @@ Building out my home lab to get more hands-on experience with:
 
 ## things i do when i'm not coding
 
-☕ drink an unreasonable amount of coffee
-🧶 crochet things I probably didn't need
+```text
+☕ drink coffee
+🧶 crochet 
 🍪 bake new desserts
 🏋️ work out
 🐶 hang out with my corgi
 💻 make Markdown notes for my project ideas
+```
 
 ---
 
